@@ -1,1 +1,1 @@
-# 1 lab - main branch
+# 1 lab - Lab_1 branch
